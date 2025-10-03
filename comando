@@ -1,0 +1,7 @@
+Git init
+git config --global user.name "coloque seu nome de usuario aqui"
+git config --global user.email "coloque seu email aqui"
+git branch -M main
+git remote add origin   (coloca o codigo do git)
+git pull origin main
+ 
